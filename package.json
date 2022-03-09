@@ -12,7 +12,7 @@
 	"bugs": {
 		"url": "https://github.com/rzzo/rzzos-extension-pack/issues"
 	},
-	"publisher": "rzzo",
+	"publisher": "mr-rzzo",
 	"icon": "rzzo.png",
 	"engines": {
 		"vscode": "^1.65.0"
