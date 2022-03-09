@@ -3,8 +3,22 @@
 	"displayName": "rzzo's Extension Pack",
 	"description": "This pack is my goto VSCode starter kit for a modern JS/TS Frontend developer. Mostly targeting Angular, Svelte, SvelteKit and vanilla JavaScript or TypeScript 👾",
 	"version": "0.0.1",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/rzzo/rzzos-extension-pack"
+	},
+	"homepage": "https://github.com/rzzo/rzzos-extension-pack",
+	"bugs": {
+		"url": "https://github.com/rzzo/rzzos-extension-pack/issues"
+	},
+	"publisher": "rzzo",
+	"icon": "rzzo.png",
 	"engines": {
 		"vscode": "^1.65.0"
+	},
+	"galleryBanner": {
+		"color": "purple",
+		"theme": "dark"
 	},
 	"categories": [
 		"Extension Packs"
